@@ -17,7 +17,7 @@ example:
 
 #### ASHMC President
 
-![Julia Wang](MemberPics/F18/placeholder.png)
+![Julia's Image](/Users/nickrichardson/Desktop/Site/Site/_includes/img/JuliaWang.jpg)
 
 Julia Wang '20
 
