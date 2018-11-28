@@ -71,7 +71,7 @@ Contact Lorenzo:
 Evan Johnson '20
 
 Contact Evan:
-  * Email: ejohnson@hmc.edu
+  * Email: [ejohnson@hmc.edu](mailto:ejohnson@hmc.edu)
 
 #### Committee for Activities Planning (CAP) Chairs
 
